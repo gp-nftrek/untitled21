@@ -17,7 +17,7 @@ public class Main {
     // System.out.println("1 uslovie " + a / a * b);
       //  System.out.println( "2 uslovie " + b / b* a);
 
-//Задача 8
+///Задача 8
 
         int a = 596;
         int b = (a % 100 /10);
